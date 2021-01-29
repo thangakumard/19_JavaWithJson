@@ -1,0 +1,38 @@
+[
+  {
+    "data": [
+      {
+        "address": "sfo",
+        "name": "name1",
+        "phones": [
+          {
+            "phone_no": "123"
+          },
+          {
+            "phone_no": "456"
+          }
+        ]
+      }
+    ],
+    "testcase": "test1",
+    "type": "type1"
+  },
+  {
+    "data": [
+      {
+        "address": "lax",
+        "name": "name2",
+        "phones": [
+          {
+            "phone_no": "789"
+          },
+          {
+            "phone_no": "111"
+          }
+        ]
+      }
+    ],
+    "testcase": "test2",
+    "type": "type2"
+  }
+]

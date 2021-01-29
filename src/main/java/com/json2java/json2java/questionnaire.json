@@ -1,0 +1,11 @@
+[
+    {
+        "label": "Is your device in good condition ?",
+        "hint": "",
+        "code": "BROKEN",
+        "answer": [
+            "YES",
+            "NO"
+        ]
+    }
+]
